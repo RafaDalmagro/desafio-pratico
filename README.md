@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/3d98456c-3988-4a3e-91f6-2214ed89e657)
+
 # Desafio Prático - Local Turístico
 
 Este projeto faz parte do **Desafio Prático** proposto pela [Rocketseat](https://www.rocketseat.com.br/), com o objetivo de reforçar os fundamentos de **HTML** e **CSS**, aplicando conceitos essenciais na construção de páginas web estáticas.
